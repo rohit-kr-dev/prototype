@@ -1,0 +1,5 @@
+customer,amount,status
+Acme Traders,12000,paid
+North Star,8000,pending
+Acme Traders,5000,paid
+Sunrise Stores,3000,overdue
